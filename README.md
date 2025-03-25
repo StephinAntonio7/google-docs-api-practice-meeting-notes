@@ -41,3 +41,6 @@ To run the notebook in Google Colab:
    drive.mount('/content/drive')
 
    # Follow the rest of the steps in the Colab notebook to authenticate and run the code
+
+Running the Script:
+Once the authentication is complete, follow the instructions in the Colab notebook to run the script and create your formatted Google Doc. Make sure to check the resulting Google Doc for your meeting notes formatted with headings, bullet points, checkboxes, and styled text.
